@@ -1,0 +1,19 @@
+# Python仮想環境
+python/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FFmpeg
+ffmpeg/
+
+# 出力ファイル
+output/*.webm
+output/*.mp4
+
+# ユーザー設定
+config.json
+
+# その他
+.DS_Store
+Thumbs.db 
